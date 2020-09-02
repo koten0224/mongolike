@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  key: MyString
+  value: MyString
+  cls: MyString
+  owner: one
+  owner_type: Owner
+
+two:
+  key: MyString
+  value: MyString
+  cls: MyString
+  owner: two
+  owner_type: Owner
